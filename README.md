@@ -3,6 +3,7 @@
 <h4 align="center"> living in New England </h4>
 <br>
 
+<p align="center">I can be reached at i.am@victormikell.com</p>
 
 
 <!---
